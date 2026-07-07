@@ -2,10 +2,11 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,50:2563EB,100:14B8A6&height=190&section=header&text=05solar&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-stack%20developer%20building%20practical%20web%20apps&descAlignY=58&descSize=16)
 
-### 제품처럼 동작하는 웹 서비스를 만드는 개발자
+### 꾸준히 만들고, 끝까지 다듬는 개발자
 
-React 기반 프론트엔드부터 Node.js 백엔드, PostgreSQL 데이터베이스, 모델 추론 연동까지  
-사용자가 바로 다룰 수 있는 형태로 기능을 연결하고 다듬는 데 집중합니다.
+사용자가 실제로 쓸 수 있는 웹 서비스를 만드는 데 관심이 있습니다.  
+프론트엔드 화면부터 백엔드 API, 데이터베이스, 배포 흐름까지 연결하며  
+아이디어가 동작하는 결과물이 되도록 차근차근 구현합니다.
 
 <br />
 
@@ -18,10 +19,10 @@ React 기반 프론트엔드부터 Node.js 백엔드, PostgreSQL 데이터베이
 
 ## About Me
 
-- 프론트엔드, 백엔드, DB를 함께 설계하며 전체 흐름이 끊기지 않는 앱을 만듭니다.
-- 복잡한 기능도 사용자가 이해하기 쉬운 화면과 API 구조로 정리하는 것을 좋아합니다.
-- 최근에는 이미지/영상 데이터 기반 분석 서비스와 생산성 도구를 구현하고 있습니다.
-- 작은 기능이라도 실행, 검증, 문서화까지 마무리하는 개발 방식을 지향합니다.
+- React와 TypeScript를 중심으로 사용하기 편한 웹 화면을 구현합니다.
+- Node.js, Express, PostgreSQL을 활용해 서비스에 필요한 API와 데이터 흐름을 설계합니다.
+- 기능 구현에서 끝내지 않고, 실행 방법과 유지보수 흐름까지 정리하려고 합니다.
+- 최근에는 분석 서비스, 클론코딩, 팀 프로젝트를 통해 풀스택 개발 경험을 쌓고 있습니다.
 
 ## Tech Stack
 
@@ -32,6 +33,7 @@ React 기반 프론트엔드부터 Node.js 백엔드, PostgreSQL 데이터베이
 ![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-111827?style=for-the-badge&logo=vite&logoColor=646CFF)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6)
 
 ### Backend & Data
@@ -54,43 +56,40 @@ React 기반 프론트엔드부터 Node.js 백엔드, PostgreSQL 데이터베이
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [CheckMite](https://github.com/05solar/Checkmite) | 사육박스 이미지/영상 데이터를 기반으로 객체 탐지, 밀도 측정, 활력도 측정, 증식 분석을 수행하는 웹 애플리케이션 | React, Vite, TypeScript, Express, PostgreSQL |
-| [TASK_OS_v1.0 Todo](https://github.com/05solar/to-do-list) | Stitch 디자인 레퍼런스를 기반으로 만든 네오 레트로 스타일의 포켓 Todo 앱 | React, Node.js, PostgreSQL, Docker |
+| [CheckMite](https://github.com/05solar/Checkmite) | 이미지와 영상 데이터를 활용해 객체 탐지, 밀도 측정, 활력도 측정 등 분석 흐름을 구현한 서비스 | React, TypeScript, Express, PostgreSQL |
+| [GMG Service](https://github.com/05solar/GMG) | 팀 프로젝트 기반으로 서비스 기획부터 화면, 기능 구현까지 함께 구성한 웹 서비스 | Web, Service, Team Project |
+| [Olive Young Clone Coding](https://github.com/05solar/OV-clonecoding) | 올리브영 웹사이트의 주요 화면과 UI 흐름을 따라 구현한 클론코딩 프로젝트 | JavaScript, HTML, CSS |
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=05solar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="05solar GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=05solar&layout=compact&theme=tokyonight&hide_border=true" alt="05solar top languages" />
-
-<br />
-<br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=05solar&theme=tokyonight&hide_border=true" alt="05solar GitHub streak" />
+![Public Repos](https://img.shields.io/badge/Public%20Repos-Active-2563EB?style=for-the-badge&logo=github&labelColor=111827)
+![Main Focus](https://img.shields.io/badge/Main%20Focus-Full--stack-14B8A6?style=for-the-badge&labelColor=111827)
+![Learning](https://img.shields.io/badge/Learning-Service%20Development-F59E0B?style=for-the-badge&labelColor=111827)
 
 </div>
 
 ## Current Focus
 
 ```text
-Frontend polish     React + TypeScript UI implementation
-Backend design      Express API, validation, persistence flow
-Data layer          PostgreSQL schema and service integration
-AI integration      Image/video analysis pipeline connection
+Frontend        React + TypeScript 기반 UI 구현
+Backend         Express API 설계와 데이터 처리
+Database        PostgreSQL 스키마 구성과 연동
+Service Flow    기획부터 실행 가능한 결과물까지 연결
 ```
 
 ## Repository Rhythm
 
 ```text
-build small -> verify behavior -> refine UX -> document clearly
+plan clearly -> build steadily -> verify behavior -> refine details
 ```
 
 <div align="center">
 
 ---
 
-꾸준히 만들고, 실행 가능한 결과물로 남깁니다.
+작게 시작하더라도, 끝까지 동작하는 결과물로 남기는 것을 목표로 합니다.
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,50:2563EB,100:1F2937&height=120&section=footer)
 
