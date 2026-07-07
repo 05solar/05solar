@@ -48,9 +48,9 @@
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [CheckMite](https://github.com/05solar/Checkmite) | 이미지 분석을 중심으로 객체 탐지, 밀도 측정, 활력도 측정 등 영상/이미지 기반 분석 흐름을 구현한 서비스 | React, TypeScript, Express, PostgreSQL |
-| [GMG Service](https://github.com/05solar/GMG) | 실제 프로젝트를 빌드하고 배포한 뒤, 실사용자 반응을 바탕으로 유지보수까지 진행한 서비스 | Web, Service, Team Project |
-| [Olive Young Clone Coding](https://github.com/05solar/oliveyoung) | 올리브영 시스템과 실제 서비스 흐름을 최대한 유사하게 구현한 클론코딩 프로젝트 | JavaScript, HTML, CSS |
+| [CheckMite](https://github.com/05solar/Checkmite) | 이미지 분석을 중심으로 객체 탐지, 밀도 측정, 활력도 측정 등 영상/이미지 기반 분석 흐름을 구현한 서비스 | React, Vite, TypeScript, Express, PostgreSQL, FastAPI, Ultralytics, OpenCV, ONNX Runtime |
+| [GMG Service](https://github.com/05solar/GMG) | 실제 프로젝트를 빌드하고 배포한 뒤, 실사용자 반응을 바탕으로 유지보수까지 진행한 서비스 | React 19, Vite, React Router, JavaScript, CSS, ESLint, Prettier |
+| [Olive Young Clone Coding](https://github.com/05solar/oliveyoung) | 올리브영 시스템과 실제 서비스 흐름을 최대한 유사하게 구현한 클론코딩 프로젝트 | React, Vite, TypeScript, React Router, Express, PostgreSQL, Docker |
 
 ## GitHub Activity
 
