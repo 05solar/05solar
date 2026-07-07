@@ -2,12 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,50:2563EB,100:14B8A6&height=190&section=header&text=05solar&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-stack%20developer%20building%20practical%20web%20apps&descAlignY=58&descSize=16)
 
-### 꾸준히 만들고, 끝까지 다듬는 개발자
-
-사용자가 실제로 쓸 수 있는 웹 서비스를 만드는 데 관심이 있습니다.  
-프론트엔드 화면부터 백엔드 API, 데이터베이스, 배포 흐름까지 연결하며  
-아이디어가 동작하는 결과물이 되도록 차근차근 구현합니다.
-
 <br />
 
 [![GitHub followers](https://img.shields.io/github/followers/05solar?style=for-the-badge&logo=github&color=2563EB&labelColor=111827)](https://github.com/05solar)
@@ -88,8 +82,6 @@ plan clearly -> build steadily -> verify behavior -> refine details
 <div align="center">
 
 ---
-
-작게 시작하더라도, 끝까지 동작하는 결과물로 남기는 것을 목표로 합니다.
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,50:2563EB,100:1F2937&height=120&section=footer)
 
