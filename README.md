@@ -17,8 +17,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/05solar?style=for-the-badge&logo=github&color=2563EB&labelColor=111827)](https://github.com/05solar)
 [![Profile views](https://komarev.com/ghpvc/?username=05solar&style=for-the-badge&color=14B8A6)](https://github.com/05solar)
 
-[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=lotus05f)](https://solved.ac/profile/lotus05f)
-
 </div>
 
 ---
@@ -111,6 +109,11 @@
 <br />
 
 <img src="https://ghchart.rshah.org/2563EB/05solar" width="90%" alt="Contribution graph" />
+
+<br />
+<br />
+
+[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=lotus05f)](https://solved.ac/profile/lotus05f)
 
 </div>
 
