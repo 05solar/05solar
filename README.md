@@ -46,7 +46,7 @@
 
 ### AI & ML
 
-![Ultralytics YOLO](https://img.shields.io/badge/YOLO-111827?style=for-the-badge&logo=yolo&logoColor=00FFFF)
+![Ultralytics YOLO](https://img.shields.io/badge/Ultralytics%20YOLO-111827?style=for-the-badge&logo=ultralytics&logoColor=00FFFF)
 ![ONNX](https://img.shields.io/badge/ONNX%20Runtime-111827?style=for-the-badge&logo=onnx&logoColor=FFFFFF)
 ![OpenCV](https://img.shields.io/badge/OpenCV-111827?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
 ![RAG](https://img.shields.io/badge/RAG%20%2F%20LLM%20Agents-111827?style=for-the-badge&logo=openai&logoColor=FFFFFF)
