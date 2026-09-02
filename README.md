@@ -1,9 +1,20 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,50:2563EB,100:14B8A6&height=190&section=header&text=05solar&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-stack%20developer%20%C2%B7%20MSA%20%26%20AI-powered%20services&descAlignY=58&descSize=16)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,50:2563EB,100:14B8A6&height=200&section=header&text=05solar&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-stack%20Developer%20building%20MSA%20and%20AI%20services&descAlignY=58&descSize=16)
+
+<br />
+
+<a href="https://05solar.github.io/PF/">
+  <img src="https://img.shields.io/badge/%F0%9F%8C%90%20%20PORTFOLIO%20%E2%80%94%2005solar.github.io%2FPF-2563EB?style=for-the-badge&labelColor=111827" height="36" alt="Portfolio" />
+</a>
+<a href="https://05solar.github.io/PF/#contact">
+  <img src="https://img.shields.io/badge/%F0%9F%93%AC%20%20CONTACT-14B8A6?style=for-the-badge&labelColor=111827" height="36" alt="Contact" />
+</a>
+
+<br />
+<br />
 
 [![GitHub followers](https://img.shields.io/github/followers/05solar?style=for-the-badge&logo=github&color=2563EB&labelColor=111827)](https://github.com/05solar)
-[![Portfolio](https://img.shields.io/badge/Portfolio-05solar.github.io-14B8A6?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=111827)](https://05solar.github.io/PF/)
 [![Profile views](https://komarev.com/ghpvc/?username=05solar&style=for-the-badge&color=14B8A6)](https://github.com/05solar)
 
 </div>
@@ -15,7 +26,7 @@
 - 전북대학교 IT지능정보공학과 22학번 재학 중인 **풀스택 개발자**입니다.
 - **마이크로서비스 아키텍처(MSA)** 설계와 **AI 기반 서비스**(RAG, LLM 에이전트, 컴퓨터 비전)를 실제 동작하는 서비스로 만드는 데 집중하고 있습니다.
 - 기획 → 설계 문서 → 구현 → 테스트 → **Docker/Kubernetes 배포**까지, 서비스의 전체 수명주기를 직접 다룹니다.
-- 📫 Contact: [portfolio contact](https://05solar.github.io/PF/#contact)
+- 🌐 **Portfolio: [05solar.github.io/PF](https://05solar.github.io/PF/)** — 프로젝트 상세와 연락처는 여기에 있습니다.
 
 ## Tech Stack
 
@@ -91,8 +102,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=05solar&show_icons=true&theme=github_dark&hide_border=true&bg_color=111827&title_color=2563EB&icon_color=14B8A6" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=05solar&layout=compact&theme=github_dark&hide_border=true&bg_color=111827&title_color=2563EB&langs_count=8" height="165" alt="Top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=05solar&theme=github_dark" height="180" alt="GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=05solar&theme=github_dark" height="180" alt="Top languages" />
+
+<br />
+<br />
+
+<img src="https://ghchart.rshah.org/2563EB/05solar" width="90%" alt="Contribution graph" />
 
 </div>
 
@@ -114,6 +130,6 @@ design the contract -> build in small steps -> verify behavior -> ship with Dock
 
 ---
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,50:2563EB,100:1F2937&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,50:2563EB,100:1F2937&height=130&section=footer)
 
 </div>
