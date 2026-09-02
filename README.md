@@ -5,7 +5,7 @@
 <br />
 
 <a href="https://05solar.github.io/PF/">
-  <img src="https://img.shields.io/badge/%F0%9F%8C%90%20%20PORTFOLIO%20%E2%80%94%2005solar.github.io%2FPF%20%20%E2%86%97-2563EB?style=for-the-badge&labelColor=111827" height="44" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/%F0%9F%8C%90%20%20PORTFOLIO%20%E2%80%94%2005solar.github.io%2FPF%20%20%E2%86%97-2563EB?style=for-the-badge&labelColor=111827" height="60" alt="Portfolio" />
 </a>
 
 <br />
