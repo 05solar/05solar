@@ -5,15 +5,13 @@
 <br />
 
 <a href="https://05solar.github.io/PF/">
-  <img src="https://img.shields.io/badge/%F0%9F%8C%90%20%20PORTFOLIO%20%E2%80%94%2005solar.github.io%2FPF-2563EB?style=for-the-badge&labelColor=111827" height="36" alt="Portfolio" />
-</a>
-<a href="https://05solar.github.io/PF/#contact">
-  <img src="https://img.shields.io/badge/%F0%9F%93%AC%20%20CONTACT-14B8A6?style=for-the-badge&labelColor=111827" height="36" alt="Contact" />
+  <img src="https://img.shields.io/badge/%F0%9F%8C%90%20%20PORTFOLIO%20%E2%80%94%2005solar.github.io%2FPF%20%20%E2%86%97-2563EB?style=for-the-badge&labelColor=111827" height="44" alt="Portfolio" />
 </a>
 
 <br />
 <br />
 
+[![Contact](https://img.shields.io/badge/%F0%9F%93%AC%20CONTACT-14B8A6?style=for-the-badge&labelColor=111827)](https://05solar.github.io/PF/#contact)
 [![GitHub followers](https://img.shields.io/github/followers/05solar?style=for-the-badge&logo=github&color=2563EB&labelColor=111827)](https://github.com/05solar)
 [![Profile views](https://komarev.com/ghpvc/?username=05solar&style=for-the-badge&color=14B8A6)](https://github.com/05solar)
 
