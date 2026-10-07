@@ -21,10 +21,27 @@
 
 ## About Me
 
-- 전북대학교 IT지능정보공학과 22학번 재학 중인 **풀스택 개발자**입니다.
-- **마이크로서비스 아키텍처(MSA)** 설계와 **AI 기반 서비스**(RAG, LLM 에이전트, 컴퓨터 비전)를 실제 동작하는 서비스로 만드는 데 집중하고 있습니다.
-- 기획 → 설계 문서 → 구현 → 테스트 → **Docker/Kubernetes 배포**까지, 서비스의 전체 수명주기를 직접 다룹니다.
-- 🌐 **Portfolio: [05solar.github.io/PF](https://05solar.github.io/PF/)** — 프로젝트 상세와 연락처는 여기에 있습니다.
+- I am a **full-stack developer** and a student in the Department of IT and Intelligent Information Engineering at Jeonbuk National University (class of 2022).
+- I focus on turning **microservice architecture (MSA)** designs and **AI-powered services** (RAG, LLM agents, and computer vision) into working products.
+- I work across the full service lifecycle: planning → design documents → implementation → testing → **Docker/Kubernetes deployment**.
+- 🌐 **Portfolio: [05solar.github.io/PF](https://05solar.github.io/PF/)** — Find project details and contact information here.
+
+## Awards
+
+| Award | Organizer | Date |
+| --- | --- | --- |
+| Excellence Award, 2024 Handong University Summer Big Data Camp | Handong University Big Data Innovation Convergence University | 2024.07.16–2024.07.19 |
+| Excellence Award, 2025 Handong University Winter Big Data Camp | Handong University Big Data Innovation Convergence University | 2026.01.13–2026.01.16 |
+| Grand Prize (SW Center Director's Award), 2026 SW Industry-Academia Practical Capstone | Jeonbuk National University SW-Centered University Project Group | 2026.09 |
+| Excellence Award, 2026 Honam Region SW-Centered University Project LLM Hackathon | Chosun University SW-Centered University Project Group | — |
+| Bronze Prize, 2025 Jeonbuk National University AI Competition | Jeonbuk National University SW-Centered University Project Group | — |
+| Grand Prize (University President's Award), 2026 Open Source SW Hackathon | Jeonbuk National University SW-Centered University Project Group | — |
+
+## Experience
+
+| Company | Role | Work | Period |
+| --- | --- | --- | --- |
+| HeadIT Co., Ltd. | Intern | Built a GPU server-based RAG service environment | 2026.07–2026.08 |
 
 ## Tech Stack
 
@@ -74,12 +91,12 @@
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [By-Tomorrow](https://github.com/05solar/By-Tomorrow) | 시험까지 남은 시간과 업로드한 강의자료를 AI가 분석해 실행 가능한 벼락치기 커리큘럼을 생성하는 학습 서비스. 회원가입 없이 8자리 세션 코드로 접근하는 `StudySession` 중심 도메인 설계 | Spring Boot, Next.js, TypeScript, PostgreSQL, Docker |
-| [edu-msa](https://github.com/05solar/edu-msa) | 구성원이 만든 프로그램을 GitHub 레포로 제출하면 플랫폼이 코드를 받아 독립 서비스로 자동 배포하는 사내 코드 공유 플랫폼. Traefik 동적 라우팅, 인증 서비스 분리(JWT), K8s 매니페스트와 GitHub Actions CI 구성 | Java 21, Spring Boot 3, React, Traefik, Kubernetes, PostgreSQL |
-| [CheckMite](https://github.com/05solar/checkmiteV1) | 천적응애 사육 품질 분석 시스템 — YOLO 기반 객체 탐지·밀도·활력도 분석을 웹 대시보드로 제공하고, Electron으로 현장용 Windows 앱까지 패키징 | React, Express, FastAPI, Ultralytics YOLO, ONNX Runtime, Electron |
-| [MSA-shop](https://github.com/05solar/MSA-shop) | 서비스별 DB 분리(DB-per-service) 원칙을 지킨 4개 서비스(user·product·order·game) 이커머스 MSA. Docker Compose로 전체 스택 오케스트레이션 | Spring Boot, Vue 3, PostgreSQL ×4, Docker Compose, JWT |
-| [Auto-PPT](https://github.com/05solar/Auto-PPT) | 문서를 넣으면 편집 가능한 네이티브 .pptx를 자동 생성하는 로컬 웹 앱. 폰트 임베딩·디자인 규칙 후처리로 일관된 슬라이드 품질 보장 | Python, FastAPI, python-pptx, PyMuPDF |
-| [GO](https://github.com/05solar/GO) | 바둑(MCTS+RAVE)·오목(알파-베타 탐색) AI를 Web Worker에서 구동하는 순수 클라이언트 보드게임 앱 — [Live Demo](https://05solar.github.io/GO/) | React, TypeScript, Web Worker, GitHub Pages |
+| [By-Tomorrow](https://github.com/05solar/By-Tomorrow) | A study service that analyzes the time until an exam and uploaded lecture materials with AI to create an actionable last-minute study plan. Its `StudySession` domain lets users join with an eight-digit session code, without signing up. | Spring Boot, Next.js, TypeScript, PostgreSQL, Docker |
+| [edu-msa](https://github.com/05solar/edu-msa) | An internal code-sharing platform where members submit GitHub repositories and the platform automatically deploys their code as independent services. Includes Traefik dynamic routing, a separate JWT authentication service, Kubernetes manifests, and GitHub Actions CI. | Java 21, Spring Boot 3, React, Traefik, Kubernetes, PostgreSQL |
+| [CheckMite](https://github.com/05solar/checkmiteV1) | A predatory mite breeding quality analysis system. A web dashboard shows YOLO-based object detection, density, and activity analysis; an Electron package provides a Windows app for field use. | React, Express, FastAPI, Ultralytics YOLO, ONNX Runtime, Electron |
+| [MSA-shop](https://github.com/05solar/MSA-shop) | A four-service e-commerce MSA (user, product, order, and game) with a separate database for each service. Docker Compose orchestrates the full stack. | Spring Boot, Vue 3, PostgreSQL ×4, Docker Compose, JWT |
+| [Auto-PPT](https://github.com/05solar/Auto-PPT) | A local web app that turns documents into editable native .pptx files. Font embedding and design-rule post-processing keep slide quality consistent. | Python, FastAPI, python-pptx, PyMuPDF |
+| [GO](https://github.com/05solar/GO) | A client-side board game app that runs Go (MCTS+RAVE) and Gomoku (alpha-beta search) AI in Web Workers — [Live Demo](https://05solar.github.io/GO/). | React, TypeScript, Web Worker, GitHub Pages |
 
 <details>
 <summary><b>More projects</b></summary>
@@ -88,11 +105,11 @@
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [RAG-agent](https://github.com/05solar/RAG-agent) | PDF 업로드·인덱싱 기반 질의응답에 졸업요건 상담 등 DB 기반 에이전트를 결합한 RAG 멀티 에이전트 챗봇 | Python, RAG, LLM |
-| [saju](https://github.com/05solar/saju) | 사주 만세력 계산 + 부족한 오행 기반 이름 추천 서비스. 민감 데이터는 서버 측에만 두는 프라이버시 설계 | React, FastAPI, PostgreSQL, Docker |
-| [MSA-game](https://github.com/05solar/MSA-game) | Phaser 3 기반 브라우저 RPG '천공의 탑' — 백엔드는 gateway·auth·player 등 MSA 서비스 경계로 설계 | Vue 3, Phaser 3, Spring Boot |
-| [Gangneung](https://github.com/05solar/Gangneung) | 여행 일정 관리와 미니게임 7종(수박게임·2048·바둑 등)을 결합한 모바일 웹 앱 | React, Express, Docker |
-| [oliveyoung](https://github.com/05solar/oliveyoung) | 올리브영의 실제 서비스 흐름을 재현한 풀스택 클론코딩 | React, Express, PostgreSQL, Docker |
+| [RAG-agent](https://github.com/05solar/RAG-agent) | A RAG multi-agent chatbot that combines Q&A over uploaded and indexed PDFs with database-backed agents for tasks such as graduation requirement guidance. | Python, RAG, LLM |
+| [saju](https://github.com/05solar/saju) | A service that calculates the traditional Four Pillars birth chart and recommends names based on underrepresented elements. Its privacy design keeps sensitive data on the server. | React, FastAPI, PostgreSQL, Docker |
+| [MSA-game](https://github.com/05solar/MSA-game) | A Phaser 3 browser RPG, "Tower of Heaven," with backend service boundaries for gateway, authentication, and player services. | Vue 3, Phaser 3, Spring Boot |
+| [Gangneung](https://github.com/05solar/Gangneung) | A mobile web app combining travel itinerary management with seven mini-games, including Watermelon Game, 2048, and Go. | React, Express, Docker |
+| [oliveyoung](https://github.com/05solar/oliveyoung) | A full-stack clone recreating Olive Young's real-world service flow. | React, Express, PostgreSQL, Docker |
 
 </details>
 
@@ -118,9 +135,9 @@
 ## Current Focus
 
 ```text
-MSA            Spring Boot 기반 서비스 분리 설계 · Kubernetes 배포 · Traefik 라우팅
-AI Services    RAG 파이프라인 · LLM 에이전트 · YOLO/ONNX 컴퓨터 비전
-Delivery       설계 문서 → 구현 → 테스트 → CI/CD까지 이어지는 개발 사이클
+MSA            Spring Boot-based service decomposition · Kubernetes deployment · Traefik routing
+AI Services    RAG pipelines · LLM agents · YOLO/ONNX computer vision
+Delivery       Development cycle from design documents → implementation → testing → CI/CD
 ```
 
 ## How I Work
