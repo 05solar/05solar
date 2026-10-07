@@ -30,12 +30,12 @@
 
 | Competition | Award | Date |
 | --- | --- | --- |
-| 2026 SW Industry-Academia Practical Capstone | 🥇 Grand Prize (SW Center Director's Award) | 2026.09 |
-| 2026 Open Source SW Hackathon | 🥇 Grand Prize (University President's Award) | — |
-| 2024 Handong University Summer Big Data Camp | 🥈 Excellence Award | 2024.07.16–2024.07.19 |
-| 2025 Handong University Winter Big Data Camp | 🥈 Excellence Award | 2026.01.13–2026.01.16 |
-| 2026 Honam Region SW-Centered University Project LLM Hackathon | 🥈 Excellence Award | — |
-| 2025 Jeonbuk National University AI Competition | 🥉 Bronze Prize | — |
+| SW Industry-Academia Practical Capstone | 🥇 Grand Prize (SW Center Director's Award) | 2026 |
+| Open Source SW Hackathon | 🥇 Grand Prize (University President's Award) | 2026 |
+| Handong University Summer Big Data Camp | 🥈 Excellence Award | 2024 |
+| Handong University Winter Big Data Camp | 🥈 Excellence Award | 2026 |
+| Honam Region SW-Centered University Project LLM Hackathon | 🥈 Excellence Award | 2026 |
+| Jeonbuk National University AI Competition | 🥉 Bronze Prize | 2025 |
 
 ## Experience
 
